@@ -3,7 +3,17 @@ new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: content/zh
+  label: zh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/en
+  label: en
+  create: all
+  match: "**/*"
 upload_dir: edunimal/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
