@@ -5,7 +5,7 @@ googleAnalytics = ""
 defaultContentLanguage = "zh"
 paginate = 3
 theme = "terrassa"
-themesDir  = "srv/themes"
+themesDir  = "themes"
 
 [params]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
