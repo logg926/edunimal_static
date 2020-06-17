@@ -1,0 +1,1 @@
+# edunimal_static
