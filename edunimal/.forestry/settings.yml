@@ -3,25 +3,7 @@ new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
-sections:
-- type: document
-  path: edunimal/config.toml
-  label: Config
-- type: directory
-  path: edunimal/content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: edunimal/content/zh
-  label: 中文
-  create: all
-  match: "**/*"
-- type: directory
-  path: edunimal/content/en
-  label: En
-  create: all
-  match: "**/*"
+sections: 
 upload_dir: edunimal/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
