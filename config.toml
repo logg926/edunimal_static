@@ -118,3 +118,7 @@ theme = "terrassa"
                 show = true
                 cta = "Kontakt"
                 link = "zh/kontakt/" # Relative URL
+
+[module]
+  [[module.imports]]
+    path = "github.com/logg926/hugo-terrassa-theme.git"
