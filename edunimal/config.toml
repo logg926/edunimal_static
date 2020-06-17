@@ -1,0 +1,104 @@
+author = "Log G Cheng & Donald Shek"
+baseurl = "/"
+defaultContentLanguage = "zh"
+googleAnalytics = ""
+paginate = 3
+theme = "terrassa"
+title = "Edunimal"
+[languages.en]
+contentDir = "content/en"
+description = "Das ist die deutsche Beschreibung"
+languageName = "en"
+title = "Das ist der deutsche Titel"
+weight = 2
+[languages.en.params.cta]
+cta = "Kontakt"
+link = "zh/kontakt/"
+show = true
+[languages.en.params.form]
+inputEmailLabel = "E-mail"
+inputEmailPlaceholder = "Deine E-Mail-Adresse"
+inputMsgLabel = "Schreib etwas"
+inputNameLabel = "Name"
+inputNamePlaceholder = "Dein Name"
+inputSubmitValue = "Abschicken"
+[languages.zh]
+contentDir = "content/zh"
+languageName = "中文"
+weight = 1
+[params]
+description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
+favicon = "favicon.ico"
+logo = ""
+[params.contact]
+address = "419 Creek St. Revere, MA 02151"
+email = "example@gmail.com"
+phone = "xxx xxx xxx"
+skype = ""
+[params.copy]
+copy = ""
+[params.cta]
+cta = "Contact"
+link = "contact"
+show = true
+[params.fa]
+integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
+version = "5.7.2"
+[params.form]
+action = "https://formspree.io/your@email.com"
+inputEmailLabel = "Email"
+inputEmailName = "email"
+inputEmailPlaceholder = "Your email"
+inputMsgLabel = "Write something"
+inputMsgLength = 750
+inputMsgName = "message"
+inputNameLabel = "Name"
+inputNameName = "name"
+inputNamePlaceholder = "Your name"
+inputSubmitValue = "Send"
+method = "POST"
+netlify = true
+[params.hero]
+textColor = ""
+[params.languageSwitcher]
+show = true
+[params.posts]
+dateFormat = "Monday, Jan, 2006"
+showAuthor = true
+showDate = true
+showTags = true
+[params.separator]
+show = false
+[params.social]
+500px = ""
+codepen = "https://codepen.io/john"
+facebook = "https://facebook.com/john"
+flickr = ""
+github = "https://github.com/john"
+gitlab = ""
+instagram = "https://instagram.com/john"
+linkedin = ""
+mastodon = ""
+pinterest = ""
+tumblr = ""
+twitter = "https://twitter.com/john"
+weibo = ""
+youtube = ""
+[privacy.googleAnalytics]
+anonymizeIP = true
+disable = false
+respectDoNotTrack = true
+useSessionStorage = false
+[privacy.instagram]
+disable = false
+simple = false
+[privacy.twitter]
+disable = false
+enableDNT = true
+simple = false
+[privacy.vimeo]
+disable = false
+simple = false
+[privacy.youtube]
+disable = false
+privacyEnhanced = true
