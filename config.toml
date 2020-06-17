@@ -5,6 +5,7 @@ googleAnalytics = ""
 defaultContentLanguage = "zh"
 paginate = 3
 theme = "terrassa"
+themesDir  = "srv/themes"
 
 [params]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
@@ -118,7 +119,3 @@ theme = "terrassa"
                 show = true
                 cta = "Kontakt"
                 link = "zh/kontakt/" # Relative URL
-
-[module]
-  [[module.imports]]
-    path = "github.com/logg926/hugo-terrassa-theme.git"
