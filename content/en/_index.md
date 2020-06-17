@@ -1,10 +1,9 @@
 ---
-title: Home
+title: 'Edunimal '
 description: ''
 images:
 - undraw_freelancer_b0my.svg
 weight: "1"
-draft: true
 
 ---
 # **Edu**_nimal_
