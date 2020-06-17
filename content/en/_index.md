@@ -8,4 +8,4 @@ weight: "1"
 ---
 # **Edu**_nimal_
 
-## Revolutionary educational experiences by Technology
+# _Let Technology Revolutionize Education_ 
