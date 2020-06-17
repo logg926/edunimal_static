@@ -1,8 +1,17 @@
 ---
-title : "Simple Choices"
-description: ""
-draft: false
-weight: 2
----
+title: Beetle Box設置方法與特點（MVP）
+description: ''
+weight: "2"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+---
+**I: 設置Beetle Box步驟及注意事項**
+
+1. 把Beetle Box放在陰涼通風的地方，避免陽光直接照射。因甲蟲是變溫動物，若甲蟲長時間暴露在高於攝氏30度的環境，或會導致體溫過熱，甚至死亡。而且，Beetle Box應設置在遠離殺蟲劑、蚊香之處，否則甲蟲有機會死亡。
+2. 把木糠鋪滿Beetle Box作為底材。
+3. 放置啫喱木、甲蟲啫喱，以及反身木。請注意，反身木必須能覆蓋整個Beetle Box的底部，避免甲蟲因跌倒反轉後無法翻身而死亡
+4. 把甲蟲輕輕放置在Beetle Box中。請注意甲蟲各足的跗節（腳部前端最幼的部份）容易折斷，切勿強行拉扯，否則甲蟲將會受傷。如發現甲蟲跗節脫落，應嘗試在底材中尋回斷節並保 存妥當，以備將來製作標本時重新接駁。
+
+**II：飼養任務**
+
+1. 餵飼啫喱（獨角仙3日一次）（餵飼方法？？）；按品種決定何時換啫喱
+2. 清理Beetle Box（大約兩星期，視乎清潔程度）：換木糠、清走啫喱殼、更換發臭的反身木
