@@ -4,11 +4,9 @@ description: ''
 images:
 - undraw_freelancer_b0my.svg
 weight: "1"
-menu:
-  main:
-    weight: 1
+draft: true
 
 ---
 # **Edu**_nimal_
 
-## The Hugo theme for you. Or for your company.
+## Let Technology conduct Educational revolution 
