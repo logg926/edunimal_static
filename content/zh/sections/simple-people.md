@@ -1,10 +1,10 @@
 ---
-title : "Simple People"
-description: ""
-draft: false
-weight: 3
+title: Beetle Box 與 STEM教育
+description: ''
+weight: "3"
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**STEM**即Science、Technology、Engineering與Mathematics的簡稱，近年香港中小學紛紛致力於推行STEM教育，增進學生對科學的興趣與知識，有望為本港孕育更多科研人才。STEM教育應從小做起，例如小學常識科的學習內容， **包含了科學與科技教育的基礎知識，**期望學生透過運用科學和科技，增強綜合和應用知識與技能的能力，同時培養的好奇心，提升他們的創意、 創新及解難能力。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Beetle Box**作為STEM教育工具，致力於鼓勵學生從養甲蟲的日常經驗中發掘昆蟲學、生物學及科學知識，增加其對自然界及科學探索的興趣與知識。例如Beetle Box專屬手機app能指示學生**為甲蟲設計實驗**，解答問題（例如：「甲蟲會不會對光有反應？」），從中讓他們了解科學探索的五大步驟：「觀察並提出問題」、 「提出假設」 、「設計並進行實驗」 、「量度及記錄實驗結果」、「分析結果並作出結論」，並加強其好奇心、觀察力、解難能力及科學探索能力。App內「小知識corner」亦載有與昆蟲相關的生物學知識，利用「成就系統」吸引同學發掘額外科學知識，例如生物分類法，增加他們對自然科學的知識之餘，更能提升他們的學習動機。
