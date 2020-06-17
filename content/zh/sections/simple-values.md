@@ -1,8 +1,17 @@
 ---
-title : "Simple Values"
-description: ""
-draft: false
-weight: 1
----
+title: 我們的理念
+description: ''
+weight: "1"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+**產品理念**  
+
+香港社會人煙稠密，都市人被困在石屎森林中，鮮有機會呼吸大自然的新鮮空氣，更遑論有飼養昆蟲的經驗。在物質生活匱乏的上一代，飼養甲蟲或其他昆蟲是人們僅有的樂趣，到了物質豐裕的年輕一代，年輕人已對昆蟲不屑一顧，反而轉投電子產品的懷抱，人與自然、甚至與親人的關係亦越見疏離，失去自然的質樸與清新。
+
+有見及此，Beetle Box 希望透過為親子建構飼養甲蟲的共同經驗，實踐以下理念：
+
+1）【家長、孩童】鼓勵親子於與**甲蟲的互動**中觀察其生態，使其懂得**親近並欣賞大自然** ；認識人的活動對其他物種的影響，反思人與自然的關係，應與自然共存共榮
+
+2）【孩童】推廣**生命教育**，為孩童建立尊重生命、富愛心及責任感等的正確價值觀，又能增進其生物學、科學知識，培育其對**自然科學的興趣，為日後的學習作準備。**
+
+3）【家長】透過親子飼養甲蟲的經歷，增進父母與子女的感情，維繫**親子關係**。
